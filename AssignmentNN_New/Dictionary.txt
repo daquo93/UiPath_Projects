@@ -1,0 +1,9 @@
+ExcelFileName->Assignment.xlsx
+TextFileName->Dictionary.txt
+KeyValueSeparator->->
+OverviewSheet.SheetName->Overview
+OverviewSheet.Values.A1->Test
+OverviewSheet.Values.A2->New Test
+OverviewSheet2.SheetName->Overview2
+OverviewSheet2.Values.B1->Test2
+OverviewSheet2.Values.B2->New Test2
